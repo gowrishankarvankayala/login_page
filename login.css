@@ -1,0 +1,59 @@
+
+body{
+    background-color: azure;
+    
+   
+    
+}
+input[type="text"]{
+    
+    
+  font-size:large ;
+  position: relative;
+  margin-left: 650px;
+  margin-top: 300px;
+  background-color: transparent;
+  color: white;
+
+}
+input[type="password"]{
+    
+  font-size:large ;
+  position: relative;
+  margin-left: 650px;
+  margin-top: 20px;
+  background-color: transparent;
+  color: white;
+
+}
+button{
+    
+    background-color: aquamarine;
+  font-size:large ;
+  position: relative;
+  margin-left: 800px;
+  margin-top: 15px;
+}
+body{
+    background-image: url("solid\ background.jpg");
+}
+h4{
+  font-size:large ;
+  position: relative;
+  margin-left: 650px;
+  margin-top: 30px;
+
+
+}
+/* a{
+  font-size:large ;
+  position: relative;
+  margin-left: 650px;
+  margin-top: px;
+} */
+h5{
+  font-size:large ;
+  position: relative;
+  margin-left: 750px;
+  margin-top: 30px;
+}
